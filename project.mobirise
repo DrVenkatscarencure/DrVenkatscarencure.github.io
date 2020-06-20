@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cncv website",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,16 +45,18 @@
     "uniqCompNum": 83,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "gdpr": "",
-    "siteUrl": "",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "siteUrl": "https://drvenkatscarencure.github.io/",
     "сanonical-url": "",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "canonical-url": "",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": true
   },
   "pages": {
     "SERVICES.html": {
